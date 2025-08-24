@@ -6,6 +6,10 @@ header{
     color: white;
 }
 
+.Escudo img {
+    border: 0;
+}
+
 body{
     background-image: url(Img/Time.jpg);
     background-position: center center;
@@ -101,6 +105,9 @@ a{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    gap: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .Nome{
